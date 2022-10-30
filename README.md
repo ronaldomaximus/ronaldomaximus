@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ronaldomaximus
+- 👀 I’m interested in Tecnology and Security Information
+- 🌱 I’m currently learning Cloud Azure and Python
+- 💞️ I’m looking to collaborate on Security and Linux!
